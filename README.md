@@ -36,7 +36,7 @@ If a level isn't listed here, it either hasn't been changed yet, or is not signi
 	- *Scram, Skedaddlers! -* Starting pipe sends to section before grabbing shell for throwing at 3rd 10 coin, pipe after shell throw sends back to previous pipe
 	- *Here Comes the Hoppos -* Starting pipe sends to section before hitting shell for activating 3rd 10 coin, pipe right before Wonder Flower sends back to previous pipe
 	- *Sproings in the Twilight Forest -* Starting pipe sends to section before Wonder Flower
-	- *Cosmic Hoppos -* ***(SUBJECT TO CHANGE)***
+	- *Cosmic Hoppos -* Enter left subarea for 3nd 10 coin room, first pipe sends to section between 2 semi-solids before 1st 10 coin, second pipe sends to section before 2nd 10 coin, third pipe sends to section before Flagpole for Wonder Flower practice, pipe below that sends back to first pipe ***(SUBJECT TO CHANGE)***
 	- *Pipe-Rock Plateau Palace -* First pipe sends to section before Checkpoint Flag, second pipes sends to pipe before Wonder Flower, third pipe sends to Bowser Jr. boss fight
 	- *KO Arena: Pipe-Rock Rumble -* Added pipes to send to each arena room, Elephant Fruit placed on spawn
 - World 2
@@ -45,7 +45,7 @@ If a level isn't listed here, it either hasn't been changed yet, or is not signi
 	- *Up 'n' Down with Puffy Lifts -* Starting pipe sends to section before Wonder Flower and 3rd 10 coin
 	- *Jump! Jump! Jump! -* Bubble flower near spawn, pipe at end of Wonder Section to quickly retry (Red on/off outline blocks placed over 3rd 10 coin for clarity during retries)
 	- *Countdown to Drop Down -* Starting pipe sends to section before Wonder Flower
-	- *Fluff-Puff Peaks Flying Battleship -* Starting pipe sends to section before 2nd 10 coin room ***(CURRENTLY BROKEN)***
+	- *Fluff-Puff Peaks Flying Battleship -* Starting pipe sends to 2nd 10 coin room, re-entering the same pipe sends to section before 2nd 10 coin room for entry practice (Note: Changed color of the pipe from white to green to signify that it can be entered)
 	- *Fluff-Puff Peaks Palace -* First pipe sends to section before Wonder Flower, second pipe sends to Bowser Jr. boss fight
 	- *KO Arena: Fluff-Puff Kerfluff -* Added pipes to send to each arena room, Elephant Fruit placed on spawn
 	- *Search Party: Puzzling Park -* Pipe with respawning Elephant Fruits placed at start
