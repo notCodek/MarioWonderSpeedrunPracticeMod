@@ -9,13 +9,36 @@ If you do not have a modified Switch, **use [this guide](https://switch.hacks.gu
 
 If you are using a modified Switch and *currently use a version of Wonder above v1.0.0*, **use [this tutorial](https://www.youtube.com/watch?v=mtZ_s4zwVJs) to downgrade your copy!**
 
-Instructions on how to install the mod for both console and emulator:
+Here are the instructions on how to install the mod for both console and emulator:
+
+First off, regardless of platform, **download the most recent version of the *MarioWonderSpeedrunPracticeModVx.x.zip*** in the [Releases](https://github.com/notCodek/MarioWonderSpeedrunPracticeMod/releases) tab. and unzip it.
+
+Next, follow the specific instructions for your platform of choice.
+
 
 ***Console***
-- WIP
+- If you are ***NOT*** using *SimpleModManager*
+	- Place the "**atmosphere**" folder from the .zip on the root of your SD card.
+- If you ***ARE*** using *SimpleModManager* (recommended if using multiple mods)
+	- Make a "*mods\Super Mario Bros. Wonder\Speedrun Practice Mod*" directory on your SD card if you do not have one already. (Does not need to be remade if updating or reinstalling)
+	- Place the "**contents**" folder (inside the "**atmosphere**" folder from the .zip) into that directory.
+	- Install the mod using SimpleModManager by going to the Mod Browser for Super Mario Bros. Wonder, and pressing A on "Speedrun Practice Mod".
+
+Now launch the game as normal!
+
+If you want to open the game without any mods installed, **press and hold L while launching the game!**
+
 
 ***Emulator***
-- WIP
+- If using *Ryujinx*
+	- Assuming you already have the game set-up and ready to go (outside of the scope for this guide), right click on Super Mario Bros. Wonder and select "**Open Atmosphère Mods Directory**".
+	- Create a "*Speedrun Practice Mod*" folder inside that directory.
+	- Place the "**romfs**" folder (inside "**atmosphere\contents** from the .zip) inside the "*Speedrun Practice Mod*" folder.
+	- Right click on Super Mario Bros. Wonder again, select "**Manage Mods**" and ensure that *Speedrun Practice Mod* is enabled. Make sure to click Save as well!
+- If using *Yuzu*
+	- WIP
+
+The mod should be up and running when you open the game as normal.
 
 ---
 ## Changes
@@ -32,15 +55,15 @@ If a level isn't listed here, it either hasn't been changed yet, or is not signi
 - **Here Comes the Hoppos -** Starting pipe sends to section before hitting shell for activating 3rd 10 coin, pipe right before Wonder Flower sends back to previous pipe
 - **Sproings in the Twilight Forest -** Starting pipe sends to section before Wonder Flower
 - **Cosmic Hoppos -** Enter left subarea for 3nd 10 coin room, first pipe sends to section between 2 semi-solids before 1st 10 coin, second pipe sends to section before 2nd 10 coin, third pipe sends to section before Flagpole for Wonder Flower practice, pipe below that sends back to first pipe ***(SUBJECT TO CHANGE)***
+- **Expert Badge Challenge: Jet Run I** - Starting pipe sends to section after Checkpoint Flag, first pipe at the end of the level sends back to the beginning, second pipe sends back to Checkpoint Flag.
 - **Pipe-Rock Plateau Palace -** First pipe sends to section before Checkpoint Flag, second pipes sends to pipe before Wonder Flower, third pipe sends to Bowser Jr. boss fight
 - **KO Arena: Pipe-Rock Rumble -** Added pipes to send to each arena room, Elephant Fruit placed on spawn
-
 ### World 2
 - **Pokipede Pass -** Starting pipe sends to section before Wonder Flower and 3rd 10 coin
 - **Condarts Away! -** Starting pipe sends to section before Wonder Flower (Note: Cycle will be off from RTA, use for practicing Wonder Flower entry)
 - **Up 'n' Down with Puffy Lifts -** Starting pipe sends to section before Wonder Flower and 3rd 10 coin
 - **Jump! Jump! Jump! -** Bubble flower near spawn, pipe at end of Wonder Section to quickly retry (Red on/off outline blocks placed over 3rd 10 coin for clarity during retries)
-- **Countdown to Drop Down** Starting pipe sends to section before Wonder Flower
+- **Countdown to Drop Down** - Starting pipe sends to section before Wonder Flower
 - **Fluff-Puff Peaks Flying Battleship -** Starting pipe sends to 2nd 10 coin room, re-entering the same pipe sends to section before 2nd 10 coin room for entry practice (Note: Changed color of the pipe from white to green to signify that it can be entered)
 - **Fluff-Puff Peaks Palace -** First pipe sends to section before Wonder Flower, second pipe sends to Bowser Jr. boss fight
 - **KO Arena: Fluff-Puff Kerfluff -** Added pipes to send to each arena room, Elephant Fruit placed on spawn
@@ -85,15 +108,16 @@ If a level isn't listed here, it either hasn't been changed yet, or is not signi
 - **Missile Meg Mayhem -** Starting pipe sends to next subarea
 - **High-Voltage Gauntlet -** Starting pipe sends to section before Wonder Flower
 - **Evade the Seeker Bullet Bills! -** First pipe sends to section before 1st 10 coin, second pipe sends to second sub area with 3rd 10 coin
-- **Knucklefest: Bowser's Blazing Beats -** First pipe sends to section before first Checkpoint Flag, second pipe sends to subarea with Wonder Flower
-- **The Final Battle: Bowser's Rage Stage -** Player spawn set where the checkpoint used to be, Bubble Flower and Elephant Fruit placed in front of the spawn (No more autoscroller!)
+- **KnuckleFest: Bowser's Blazing Beats -** First pipe sends to section before first Checkpoint Flag, second pipe sends to subarea with Wonder Flower
+- **The Final Battle! Bowser's Rage Stage -** Player spawn set where the checkpoint used to be, Bubble Flower and Elephant Fruit placed in front of the spawn (No more autoscroller!)
 ### Special World
+- **The Final Test: Wonder Gauntlet** - Elephant Fruit and Bubble Flower added at spawn
 - **The Final-Final Test: Badge Marathon -** Added pipes for each individual room, with accompanying badge signs for clarity
 
 ---
 ## Credits
-- **Codek –** W3-5 changes, edited in-game timer position, bug fixes, repository owner.
-- **adrianRTA –** Custom title Screen background, changes for NMG levels from Welcome to the Flower Kingdom! to Jump! Jump! Jump!, Upshroom Downshroom changes, Search Party: Item Park mechanism idea.
+- **Codek –** Most level edits from W3-8, edited in-game timer position, bug fixes, repository owner.
+- **adrianRTA –** Custom Title Screen background, changes for NMG levels from Welcome to the Flower Kingdom! to Jump! Jump! Jump!, Upshroom Downshroom changes, Search Party: Item Park mechanism idea and implementation.
 - **Theia // FrozenMuncher -** [Bindable Actor Pack](https://gamebanana.com/mods/570723)
 - **The [Fushigi](https://github.com/theia-mly/Fushigi) contributors** for making all of these changes possible with ease
 - **The [WonderLand Discord server](https://discord.gg/jBtBW22xuu)** for helping us out when we had issues
